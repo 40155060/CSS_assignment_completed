@@ -64,7 +64,7 @@ img {vertical-align: middle;}
   box-shadow: 0 0 10px #2d2d46;
   border-radius: 5px;
   background-color: rgb(216, 216, 216);
-  margin-bottom: 20px;
+  margin: 20px;
 }
 
 .Advertisement_container::after{

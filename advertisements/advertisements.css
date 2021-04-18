@@ -34,7 +34,6 @@
 
 /*Styles for the dropdown menu container of subnavigation*/
 .sub_nav_dropdown{
-    position: relative;
     background-color: #34345a;
 }
 
@@ -74,7 +73,6 @@
 #advertisements_container{
     width: 79%;;
     margin-left: 18.3%;
-    position: relative;
 }
 
 /*Styles for the banner*/
