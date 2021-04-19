@@ -51,8 +51,8 @@
 select{
     margin: 0;
     padding: 3px 0;
-    border: 1px solid #2d2d46 !important;
-    border-radius: 5px !important;
+    border: 1px solid #2d2d46;
+    border-radius: 5px;
 }
 
 
@@ -89,7 +89,7 @@ select{
 #form_grid input:focus, 
 #form_grid select:focus,
 #form_grid textarea:focus{
-    box-shadow: 0 0 10px #2d2d46;
+    box-shadow: 0 0 10px 2px #2d2d46;
 }
 
 
