@@ -125,7 +125,7 @@ header h3{
 /*Styles for main navigation*/
 .main_nav_drop_down:hover .main_nav_drop_down_links{
     display: block;
-    opacity: 10;
+    opacity: 1;
 }
 
 
