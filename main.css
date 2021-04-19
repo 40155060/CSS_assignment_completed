@@ -173,6 +173,11 @@ img {vertical-align: middle;}
   font-weight: bold;
 }
 
+.address_price{
+  color: #2d2d46;
+  font-weight: bold;
+}
+
 /* Add Animation */
 @-webkit-keyframes animatetop {
   from {top:-300px; opacity:0} 
