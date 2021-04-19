@@ -18,7 +18,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 4000); // Change image every 2 seconds
+  setTimeout(showSlides, 5500); // Change image every 2 seconds
 }
 
 // code source for slideshow: https://www.w3schools.com/w3css/w3css_slideshow.asp

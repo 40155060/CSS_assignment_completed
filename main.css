@@ -53,6 +53,10 @@ img {vertical-align: middle;}
   animation-duration: 1.5s;
 }
 
+.offer{
+  font-size: 12px;
+}
+
 #latest_finishes{
   width: 92%;
   margin-left: auto;
@@ -152,9 +156,10 @@ img {vertical-align: middle;}
 .modal_button{
   background-color: #2d2d46;
   color: white;
+  margin-top: 10px;
   margin-left: 20px;
   border: none;
-  padding: 5px 10px;
+  padding: 7px 12px;
   border-radius: 5px;
 }
 
